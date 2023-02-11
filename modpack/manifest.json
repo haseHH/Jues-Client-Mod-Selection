@@ -14,5 +14,22 @@
   "version": "1.0.0",
   "author": "haseHH",
   "name": "Jues Client Mod Selection",
-  "files": []
+  "files": [
+    {
+      "projectID": 306612,
+      "fileID": 4373752,
+      "required": true,
+      "__meta": {
+        "name": "Fabric API"
+      }
+    },
+    {
+      "projectID": 308702,
+      "fileID": 4159524,
+      "required": true,
+      "__meta": {
+        "name": "Mod Menu"
+      }
+    }
+  ]
 }
