@@ -16,6 +16,37 @@
   "name": "Jues Client Mod Selection",
   "files": [
     {
+      "projectID": 242064,
+      "fileID": 4148670,
+      "required": true,
+      "__meta": {
+        "name": "Item Scroller",
+        "dependencies": [
+          303119
+        ]
+      }
+    },
+    {
+      "projectID": 244260,
+      "fileID": 4160116,
+      "required": true,
+      "__meta": {
+        "name": "MiniHUD",
+        "dependencies": [
+          303119
+        ]
+      }
+    },
+    {
+      "projectID": 303119,
+      "fileID": 4147598,
+      "required": true,
+      "__meta": {
+        "name": "MaLiLib",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 306612,
       "fileID": 4373752,
       "required": true,
@@ -29,6 +60,168 @@
       "required": true,
       "__meta": {
         "name": "Mod Menu"
+      }
+    },
+    {
+      "projectID": 308769,
+      "fileID": 4378167,
+      "required": true,
+      "__meta": {
+        "name": "Fabric Language Kotlin",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 308892,
+      "fileID": 4259746,
+      "required": true,
+      "__meta": {
+        "name": "Litematica",
+        "dependencies": [
+          303119
+        ]
+      }
+    },
+    {
+      "projectID": 315811,
+      "fileID": 4216174,
+      "required": true,
+      "__meta": {
+        "name": "ShulkerBoxTooltip [Fabric/Forge]",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 348521,
+      "fileID": 4147098,
+      "required": true,
+      "__meta": {
+        "name": "Cloth Config API (Fabric/Forge)",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 360438,
+      "fileID": 4151763,
+      "required": true,
+      "__meta": {
+        "name": "Lithium (Fabric)"
+      }
+    },
+    {
+      "projectID": 393442,
+      "fileID": 4257388,
+      "required": true,
+      "__meta": {
+        "name": "LambDynamicLights",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 394468,
+      "fileID": 4381988,
+      "required": true,
+      "__meta": {
+        "name": "Sodium"
+      }
+    },
+    {
+      "projectID": 397217,
+      "fileID": 4352362,
+      "required": true,
+      "__meta": {
+        "name": "Chest Tracker",
+        "dependencies": [
+          348521,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 401648,
+      "fileID": 4279061,
+      "required": true,
+      "__meta": {
+        "name": "BetterF3",
+        "dependencies": [
+          348521
+        ]
+      }
+    },
+    {
+      "projectID": 447673,
+      "fileID": 4382404,
+      "required": true,
+      "__meta": {
+        "name": "Sodium Extra",
+        "dependencies": [
+          306612,
+          394468
+        ]
+      }
+    },
+    {
+      "projectID": 495267,
+      "fileID": 4370584,
+      "required": true,
+      "__meta": {
+        "name": "Inventory Profiles Next",
+        "dependencies": [
+          306612,
+          679177,
+          308769
+        ]
+      }
+    },
+    {
+      "projectID": 511319,
+      "fileID": 4126247,
+      "required": true,
+      "__meta": {
+        "name": "Reese's Sodium Options",
+        "dependencies": [
+          394468
+        ]
+      }
+    },
+    {
+      "projectID": 596224,
+      "fileID": 4177100,
+      "required": true,
+      "__meta": {
+        "name": "Debugify",
+        "dependencies": [
+          667299
+        ]
+      }
+    },
+    {
+      "projectID": 667299,
+      "fileID": 4260308,
+      "required": true,
+      "__meta": {
+        "name": "YetAnotherConfigLib",
+        "explicit": false,
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 679177,
+      "fileID": 4370452,
+      "required": true,
+      "__meta": {
+        "name": "libIPN",
+        "explicit": false,
+        "dependencies": [
+          308769,
+          306612
+        ]
       }
     }
   ]
