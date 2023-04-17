@@ -12,5 +12,4 @@ A selection of fabric mods for my friend Jue, packed for their convenience - and
 * [Inventory Profiles Next](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next)
 * [Item Scroller](https://www.curseforge.com/minecraft/mc-mods/item-scroller)
 * [ShulkerBoxTooltip](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip)
-* [Debugify](https://www.curseforge.com/minecraft/mc-mods/debugify)
 * [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)

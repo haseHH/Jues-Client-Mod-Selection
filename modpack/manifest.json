@@ -65,7 +65,7 @@
     },
     {
       "projectID": 308892,
-      "fileID": 4259746,
+      "fileID": 4492787,
       "required": true,
       "__meta": {
         "name": "Litematica",
@@ -146,29 +146,6 @@
           306612,
           679177,
           308769
-        ]
-      }
-    },
-    {
-      "projectID": 596224,
-      "fileID": 4493797,
-      "required": true,
-      "__meta": {
-        "name": "Debugify",
-        "dependencies": [
-          667299
-        ]
-      }
-    },
-    {
-      "projectID": 667299,
-      "fileID": 4492181,
-      "required": true,
-      "__meta": {
-        "name": "YetAnotherConfigLib",
-        "explicit": false,
-        "dependencies": [
-          306612
         ]
       }
     },
