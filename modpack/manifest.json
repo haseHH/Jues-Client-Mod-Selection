@@ -1,9 +1,9 @@
 {
   "minecraft": {
-    "version": "1.19.3",
+    "version": "1.19.4",
     "modLoaders": [
       {
-        "id": "fabric-0.14.14",
+        "id": "fabric-0.14.19",
         "primary": true
       }
     ]
@@ -17,7 +17,7 @@
   "files": [
     {
       "projectID": 242064,
-      "fileID": 4148670,
+      "fileID": 4444342,
       "required": true,
       "__meta": {
         "name": "Item Scroller",
@@ -28,7 +28,7 @@
     },
     {
       "projectID": 244260,
-      "fileID": 4160116,
+      "fileID": 4444346,
       "required": true,
       "__meta": {
         "name": "MiniHUD",
@@ -39,7 +39,7 @@
     },
     {
       "projectID": 303119,
-      "fileID": 4147598,
+      "fileID": 4487274,
       "required": true,
       "__meta": {
         "name": "MaLiLib",
@@ -48,23 +48,15 @@
     },
     {
       "projectID": 306612,
-      "fileID": 4373752,
+      "fileID": 4485423,
       "required": true,
       "__meta": {
         "name": "Fabric API"
       }
     },
     {
-      "projectID": 308702,
-      "fileID": 4159524,
-      "required": true,
-      "__meta": {
-        "name": "Mod Menu"
-      }
-    },
-    {
       "projectID": 308769,
-      "fileID": 4378167,
+      "fileID": 4466959,
       "required": true,
       "__meta": {
         "name": "Fabric Language Kotlin",
@@ -84,7 +76,7 @@
     },
     {
       "projectID": 315811,
-      "fileID": 4216174,
+      "fileID": 4448566,
       "required": true,
       "__meta": {
         "name": "ShulkerBoxTooltip [Fabric/Forge]",
@@ -95,7 +87,7 @@
     },
     {
       "projectID": 348521,
-      "fileID": 4147098,
+      "fileID": 4440460,
       "required": true,
       "__meta": {
         "name": "Cloth Config API (Fabric/Forge)",
@@ -104,7 +96,7 @@
     },
     {
       "projectID": 360438,
-      "fileID": 4151763,
+      "fileID": 4439705,
       "required": true,
       "__meta": {
         "name": "Lithium (Fabric)"
@@ -112,7 +104,7 @@
     },
     {
       "projectID": 393442,
-      "fileID": 4257388,
+      "fileID": 4464566,
       "required": true,
       "__meta": {
         "name": "LambDynamicLights",
@@ -122,16 +114,8 @@
       }
     },
     {
-      "projectID": 394468,
-      "fileID": 4381988,
-      "required": true,
-      "__meta": {
-        "name": "Sodium"
-      }
-    },
-    {
       "projectID": 397217,
-      "fileID": 4352362,
+      "fileID": 4476901,
       "required": true,
       "__meta": {
         "name": "Chest Tracker",
@@ -143,7 +127,7 @@
     },
     {
       "projectID": 401648,
-      "fileID": 4279061,
+      "fileID": 4437155,
       "required": true,
       "__meta": {
         "name": "BetterF3",
@@ -153,20 +137,8 @@
       }
     },
     {
-      "projectID": 447673,
-      "fileID": 4382404,
-      "required": true,
-      "__meta": {
-        "name": "Sodium Extra",
-        "dependencies": [
-          306612,
-          394468
-        ]
-      }
-    },
-    {
       "projectID": 495267,
-      "fileID": 4370584,
+      "fileID": 4469000,
       "required": true,
       "__meta": {
         "name": "Inventory Profiles Next",
@@ -178,19 +150,8 @@
       }
     },
     {
-      "projectID": 511319,
-      "fileID": 4126247,
-      "required": true,
-      "__meta": {
-        "name": "Reese's Sodium Options",
-        "dependencies": [
-          394468
-        ]
-      }
-    },
-    {
       "projectID": 596224,
-      "fileID": 4177100,
+      "fileID": 4493797,
       "required": true,
       "__meta": {
         "name": "Debugify",
@@ -201,7 +162,7 @@
     },
     {
       "projectID": 667299,
-      "fileID": 4260308,
+      "fileID": 4492181,
       "required": true,
       "__meta": {
         "name": "YetAnotherConfigLib",
@@ -213,7 +174,7 @@
     },
     {
       "projectID": 679177,
-      "fileID": 4370452,
+      "fileID": 4453754,
       "required": true,
       "__meta": {
         "name": "libIPN",

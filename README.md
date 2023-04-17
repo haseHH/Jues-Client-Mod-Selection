@@ -4,7 +4,6 @@ A selection of fabric mods for my friend Jue, packed for their convenience - and
 
 ## Notable Mods
 
-* [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)
 * [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3)
 * [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud)
 * [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica)
@@ -15,6 +14,3 @@ A selection of fabric mods for my friend Jue, packed for their convenience - and
 * [ShulkerBoxTooltip](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip)
 * [Debugify](https://www.curseforge.com/minecraft/mc-mods/debugify)
 * [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
-* [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)
-* [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)
-* [Reese's Sodium Options](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options)
